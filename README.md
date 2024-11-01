@@ -1,4 +1,4 @@
-Project Overview: The project is a website that allows users to upload images of outfits they like and receive personalized clothing recommendations based on those styles. Users can upload outfits from real life or social media, and the system will analyze these outfits to suggest new apparel items from major fashion retailers.
+Project Overview: The project is a website that allows users to create a profile and upload outfits they like and receive personalized clothing recommendations based on their personal clothing style extracted by identifying certain patterns in the outfits they have listed. Users can upload outfits from real life or social media, and the system will analyze these outfits to suggest new apparel items from major fashion retailers.
 
 Key Features:
 User Profile & Outfit Upload:
